@@ -25,6 +25,7 @@ $(document).ready(function () {
             items: 1,
             URLhashListener:true,
             mouseDrag: false,
+            dots: false,
             // startPosition: 'URLHash'
         });
 
