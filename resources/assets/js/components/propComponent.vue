@@ -6,7 +6,7 @@
                     <div class="card-header">propComponent Component</div>
 
                     <div class="card-body">
-                        I'm an example component.
+                        I'm an propComponent component.
                     </div>
                 </div>
                 <table class="table table-active">

@@ -19,5 +19,8 @@
         "popper.js": "^1.12",
         "prettier": "^1.12.1",
         "vue": "^2.5.7"
+    },
+    "dependencies": {
+        "owl.carousel2": "^2.2.1"
     }
 }

@@ -1,0 +1,16 @@
+{
+  "name": "vladkudinov-project",
+  "authors": [
+    "Vlad Kudinov <vlad.kudinov.89@gmail.com>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "owl-carousel2": "latest"
+  }
+}
